@@ -1,0 +1,7 @@
+streamlit>=1.32
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.12
+noisereduce>=3.0
+plotly>=5.18
+psutil>=5.9
